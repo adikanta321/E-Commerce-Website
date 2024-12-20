@@ -1,2 +1,2 @@
 # Adi-Projects
-this is my first Git Repository
+this is my first Git Repository.Author - Rudra Madhab Dash
