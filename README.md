@@ -1,2 +1,4 @@
 # My-Projects
-this is my first Git Repository.Author - Rudra Madhab Dash
+this is my first Git Repository
+<br/>
+Author - Rudra Madhab Dash
